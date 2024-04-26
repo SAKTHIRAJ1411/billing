@@ -13,7 +13,7 @@ void display(struct list l[], int size, char cName[], char cAddress[])
 {
     int total = 0;
     printf("\n\n\n\n");
-    printf("\t Aniket Store \n");
+    printf("\t Welcome to Shop \n");
     printf("\t-------------- \n");
     printf("\n");
     printf("Name : %s \t Address : %s \n", cName, cAddress);
